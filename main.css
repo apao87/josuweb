@@ -1,0 +1,104 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+h1{
+	font: bold 20px;
+	text-align:center;
+	float: left;
+}
+h3{
+	font: 14px Times;
+}
+h5{
+	font:14px Times;
+}
+h6{
+	font:14px Times;
+	float: right;
+}
+#top_header{
+	padding: 10px;
+	font: italic 15px verdana;
+	margin-left: 10px;
+}
+#top_menu{
+	color: white;
+	margin-top: 30px;
+	padding-left: 10px;	
+	border-bottom: 2px solid blue;
+}
+#top_menu li{
+	display: inline-block;
+	padding: 15px;
+	font: bold 14px Times;
+}
+#right_aside{
+	float: right;
+	width: 220px;
+	padding: 20px;
+	margin: 50px 10px;
+	background: #66DDDD
+}
+#left_aside{
+	float: left;
+	width: 220px;
+	padding: 20px;
+	margin: 50px 10px;
+	background: #66DDDD
+}
+#main_section{
+	text-align:left;
+	margin:0 auto;
+	width: 700px;
+	 
+}
+#imagen_main_section1{
+	text-align: center;
+
+}
+#the_footer{
+	clear: both;
+	text-align: center;
+	padding: 20px;
+	border-top: 2px solid blue;
+
+}
+#sub1_menu li{
+	display: inline-block;
+	padding: 15px;
+	font: italic 14px Times;
+	float: right;
+
+}
+#sub2_menu li{
+	display: inline-block;
+	padding: 15px;
+	font: italic 14px Times;
+	float: right;
+
+}
+#the_last_guardian{
+	margin: 10px 0px;
+}
+#the_witcher{
+	margin: 10px 0px;
+}
+#win10{
+	margin: 10px 0px;
+}
+#metalGear{
+	margin: 10px 0px;
+}
+#mordor{
+	margin: 10px 0px;
+}
+#supersmash{
+	margin: 10px 0px;
+}
+#fifa{
+	margin: 10px 0px;
+}
+#alien{
+	margin: 10px 0px;
+}
